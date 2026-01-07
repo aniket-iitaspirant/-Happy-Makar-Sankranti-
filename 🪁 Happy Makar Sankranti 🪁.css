@@ -224,3 +224,129 @@
     margin-top: -14%;
     margin-left: 54%;
 }
+
+.div26{
+    height: 150px;
+    width: 60px;
+    background-color: red;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -4%;
+    border-radius: 12px;
+}
+
+.div27{
+    height: 42px;
+    width: 41px;
+    background-color: red;
+    position: absolute;
+    margin-left: 28%;
+    margin-top: -66px;
+}
+
+.div28{
+    height: 150px;
+    width: 60px;
+    background-color: red;
+    position: absolute;
+    margin-left: 556px;
+    margin-top: -4%;
+    border-radius: 12px; 
+}
+
+.div29{
+    height: 41px;
+    width: 3px;
+    background-color: black;
+    position: absolute;
+    margin-left: 15px;
+}
+
+.div30{
+    height: 30px;
+    position: absolute;
+    width: 46px;
+    background-color: rgb(165, 42, 42);
+    margin-top: 72px;
+    margin-left: 483px;
+}
+
+.div31{
+    height: 30px;
+    position: absolute;
+    width: 46px;
+    background-color: rgb(165, 42, 42);
+    margin-top: 72px;
+    margin-left: 564px;
+}
+
+.div32{
+    height: 44px;
+    position: absolute;
+    width: 99px;
+    background-color: rgb(165, 42, 42);
+    margin-top: 72px;
+    margin-left: 430px;
+    border-top-left-radius: 64px;
+    border-top-right-radius: 36px;
+}
+
+.div33{
+   height: 44px;
+    position: absolute;
+    width: 99px;
+    background-color: rgb(165, 42, 42);
+    margin-top: 72px;
+    margin-left: 564px;
+    border-top-right-radius: 65px;
+}
+
+.div34{
+    height: 118px;
+    width: 70%;
+    margin: auto;
+    margin-top: 128px;
+}
+
+.Sankranti{
+    position: absolute;
+    right: 15%;
+    top: 2%;
+    text-align: right;
+    font-size: 95px;
+    font-weight: 900;
+    color: #ff5722;
+    text-shadow: 0 0 10px #fff, 0 0 20px #ff9800, 0 0 40px #ff5722, 0 0 80px #ff1744;
+    animation: glow 2s infinite alternate;  
+}
+
+
+@keyframes glow{
+    0%{
+        text-shadow:
+            0 0 5px #fff,
+            0 0 10px #ff9800,
+            0 0 20px #ff5722,
+            0 0 40px #ff1744;
+    }
+    100%{
+        text-shadow:
+            0 0 10px #fff,
+            0 0 20px #ff9800,
+            0 0 40px #ff5722,
+            0 0 80px #ff1744;
+    }
+}
+
+.div35{
+    height: 40px;
+    width: 51px;
+    background-color: red;
+    position: absolute;
+    margin-left: -21%;
+    margin-top: 0px;
+}
+
+.div36{
+
+}
