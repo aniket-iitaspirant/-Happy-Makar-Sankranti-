@@ -345,8 +345,286 @@
     position: absolute;
     margin-left: -21%;
     margin-top: 0px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px; 
 }
 
-.div36{
+/* ===== BOY HANDS (ADDED CODE ONLY) ===== */
 
+/* LEFT ARM */
+.hand-left{
+    height: 155px;
+    width: 24px;
+    background-color: #f0e4ab;
+    position: absolute;
+    margin-top: 38px;
+    margin-left: -10px;
+    rotate: 20deg;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.div37{
+    height: 40px;
+    width: 51px;
+    background-color: red;
+    position: absolute;
+    margin-left: 95%;
+    margin-top: 0px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px; 
+}
+
+.hand-right{
+    height: 155px;
+    width: 24px;
+    background-color: #f0e4ab;
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 35px;
+    rotate: -23deg;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px; 
+}
+
+.div38{
+    height: 134px;
+    width: 7px;
+    background-color: black;
+    position: absolute;
+    margin-left: 78px;
+    margin-top: 124px;
+    rotate: 90deg;
+    border-radius: 20px;
+}
+
+.div39{
+    height: 46px;
+    width: 89px;
+    background-color: brown;
+    position: absolute;
+    margin-top: 170px;
+    border-radius: 14px;
+    margin-left: 37px;
+}
+
+.div40{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 10px;
+}
+
+.div41{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 14px;
+}
+
+.div42{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 18px;
+}
+
+.div43{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left:22px;
+}
+
+.div44{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 26px;
+}
+
+.div45{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.div46{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 34px;
+}
+
+.div47{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 38px;
+}
+
+.div48{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 42px;
+}
+
+.div49{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 46px;
+}
+
+.div50{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 50px;
+}
+
+.div51{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 54px;
+}
+
+.div52{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 58px;
+}
+
+.div53{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 62px;
+}
+
+.div54{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 66px;
+}
+
+.div55{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 70px;
+}
+
+.div56{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 74px;
+}
+
+.div57{
+    height: 45px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 78px;
+}
+
+.div58{
+    height: 42px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 6px;
+    margin-top: 2px;
+}
+
+.div59{
+    height: 34px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 2px;
+    margin-top: 7px;
+}
+
+.div60{
+    height: 42px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 82px;
+    margin-top: 2px;
+}
+
+.div61{
+    height: 34px;
+    width: 2px;
+    background-color: red;
+    position: absolute;
+    margin-left: 86px;
+    margin-top: 6px;
+}
+
+.div62{
+    height: 700px;
+    width: 2px;
+    background-color: red;
+    margin-left: 181px;
+    position: absolute;
+    margin-top: -664px;
+    rotate: 25deg;
+}
+
+.div63{
+    height: 145px;
+    width: 145px;
+    background-color: yellow;
+    position: absolute;
+    margin-top: -790px;
+    margin-left: 309px;
+    rotate: 74deg;
+}
+
+.wood1{
+    height: 203px;
+    width: 2px;
+    background-color: rgb(255, 94, 0);
+    rotate: -44deg;
+    position: absolute;
+    margin-top: -29px;
+    margin-left: 70px;
+}
+
+.wood2{
+    width: 280px;
+    height: 280px;
+    border: 4px solid rgb(255, 94, 0);
+    border-color: rgb(255, 94, 0) transparent transparent transparent;
+    border-radius: 217px 215px 0 0;
+    rotate: -45deg;
+    margin-top: 0px;
+    margin-left: 0px;
 }
