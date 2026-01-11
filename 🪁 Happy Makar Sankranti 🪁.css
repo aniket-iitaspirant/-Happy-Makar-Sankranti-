@@ -611,7 +611,7 @@
 .wood1{
     height: 203px;
     width: 2px;
-    background-color: rgb(255, 94, 0);
+    background-color: rgb(181, 55, 1);
     rotate: -44deg;
     position: absolute;
     margin-top: -29px;
@@ -621,10 +621,30 @@
 .wood2{
     width: 280px;
     height: 280px;
-    border: 4px solid rgb(255, 94, 0);
-    border-color: rgb(255, 94, 0) transparent transparent transparent;
+    border: 4px solid rgb(181, 55, 1);
+    border-color: rgb(181, 55, 1) transparent transparent transparent;
     border-radius: 217px 215px 0 0;
     rotate: -45deg;
     margin-top: 0px;
     margin-left: 0px;
+}
+
+.rope1{
+    height: 61px;
+    width: 2px;
+    background-color: srgb(255, 0, 0);
+    position: absolute;
+    margin-left: 66px;
+    margin-top: 18px;
+    rotate: -78deg;
+}
+
+.rope2{
+    height: 61px;
+    width: 2px;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    margin-left: 66px;
+    margin-top: 18px;
+    rotate: -78deg;
 }
