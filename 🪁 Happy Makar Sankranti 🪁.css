@@ -629,16 +629,6 @@
     margin-left: 0px;
 }
 
-.rope1{
-    height: 61px;
-    width: 2px;
-    background-color: srgb(255, 0, 0);
-    position: absolute;
-    margin-left: 66px;
-    margin-top: 18px;
-    rotate: -78deg;
-}
-
 .rope2{
     height: 61px;
     width: 2px;
