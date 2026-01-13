@@ -589,13 +589,13 @@
 }
 
 .div62{
-    height: 700px;
+    height: 798px;
     width: 2px;
     background-color: red;
-    margin-left: 181px;
+    margin-left: 224px;
     position: absolute;
-    margin-top: -664px;
-    rotate: 25deg;
+    margin-top: -751px;
+    rotate: 27deg;
 }
 
 .div63{
@@ -637,4 +637,44 @@
     margin-left: 66px;
     margin-top: 18px;
     rotate: -78deg;
+}
+
+.rope3{
+    height: 2px;
+    width: 69px;
+    background-color: red;
+    position: absolute;
+    margin-left: 73px;
+    margin-top: 88px;
+    rotate: 69deg;
+}
+
+.div64{
+    height: 100px;
+    width: 15px;
+    background-color: #ff6300;
+    position: absolute;
+    margin-top: -789px;
+    margin-left: 244px;
+    rotate: 67deg;
+}
+
+.div65{
+    height: 100px;
+    width: 15px;
+    background-color: #ff6300;
+    position: absolute;
+    margin-top: -672px;
+    margin-left: 439px;
+    rotate: 17deg;
+}
+
+.div66{
+    height: 223px;
+    width: 15px;
+    background-color: #ff6300;
+    position: absolute;
+    margin-top: -652px;
+    margin-left: 272px;
+    rotate: 30deg;
 }
